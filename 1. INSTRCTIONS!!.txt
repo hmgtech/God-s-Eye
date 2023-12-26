@@ -1,2 +1,3 @@
 Run test_tk.py
-One User interface will open and It has feature to detect number of people in an frame, also it is useful to have communication who are infected by COVID19 without being in physical contact. 
+One User interface will open and It has feature to detect number of people in an frame, 
+also it is useful to have communication who are infected by COVID19 without being in physical contact. 

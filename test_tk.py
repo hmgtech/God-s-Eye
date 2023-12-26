@@ -14,7 +14,7 @@ def run():
     integer1 = int(string1)
     print("Total people:==>",integer1)
     if integer1>4:
-    	label = Label(window, text="Alert!! More people are there: People are:",background="red",font="arial").grid(row=7,column=1,padx="50")
+    	label = Label(window, text="Alert!! More people detected. Total: ",background="red",font="arial").grid(row=7,column=1,padx="50")
     	label5 = Label(window, text=integer1,background="red",font="arial").grid(row=7,column=2)
     	
 def another_tk():
@@ -27,7 +27,7 @@ def another2_tk():
     
 
 window = tk.Tk()
-window.geometry('425x400')
+window.geometry('500x400')
 window.title("God's Eye")
 # window.configure(bg='green')
 # window.create_line(0,50,400,50,fill='black')

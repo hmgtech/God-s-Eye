@@ -16,14 +16,19 @@ Welcome to the God's Eye project! In response to the COVID-19 pandemic, this too
 ## Screenshots
 1. 
 ![Initial](./screenshots/initial.png)
+
 2. 
 ![Detected](./screenshots/detected.png)
+
 3. 
 ![GPS_Data](./screenshots/GPS-Data.png)
+
 4. 
 ![Original](./screenshots/Peopple%20on%20road.png)
+
 5. 
 ![Detection](./screenshots/People%20Counting(Predicted).jpg)
+
 ## How it Works
 God's Eye leverages computer vision techniques to analyze images and determine the count of individuals present. By identifying and counting people, it provides valuable insights into the level of compliance with social distancing measures.
 
